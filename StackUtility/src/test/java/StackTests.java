@@ -14,6 +14,7 @@ public class StackTests {
 	@Test
 	public void testEmptyStack() {
 		assertTrue(stack.isEmpty());
+		
 		}
 	
 	//If I put one object on the stack, is it still empty?
